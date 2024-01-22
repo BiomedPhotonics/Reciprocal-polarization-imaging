@@ -1,0 +1,2 @@
+1.The images (00,01; 10,11; 20,21; 30,31) is captured by the polarization camera when the outgoing light for an incident beam of 0°, 45°, 90° linear polarization, and right circular polarization ( θ1=0° and θ2=45°), respectively.
+2.We imaged NBS 1963A Birefringence Resolution Target (R2L2S1B, Thorlabs) in both backward and forward geometries with our custom polarization imaging system.
